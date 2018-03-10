@@ -2,7 +2,7 @@
   "name": "midi2mp3",
   "version": "1.0.0",
   "description": "Service to convert MIDI files to MP3.",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
